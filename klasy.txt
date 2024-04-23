@@ -1,5 +1,28 @@
 Klasa użytkownicy
+  zaloguj
+  wyloguj
+  wypożycz
+  oddaj
 Klasa administrator
+  Dodaj/usuń użytkownika
+  Dodaj/usuń książkę
+  Dodaj/usuń czasopismo
 Klasa menu
-Klasa książki
+  Wypożycz
+  Oddaj
+  Wyloguj/zaloguj
+  Sprawdź stan
+Klasa książki:
+  Tytuł
+  Autor
+  Rok wydania
+  Dostępność
+  Ilość
+
 Klasa czasopisma
+  Tytuł
+  Autor
+  Rok wydania
+  Dostępność
+  Ilość
+
