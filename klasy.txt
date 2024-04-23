@@ -1,1 +1,5 @@
-Testowo
+Klasa użytkownicy
+Klasa administrator
+Klasa menu
+Klasa książki
+Klasa czasopisma
