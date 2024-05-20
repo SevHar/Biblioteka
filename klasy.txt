@@ -3,15 +3,19 @@ Klasa użytkownicy
   wyloguj
   wypożycz
   oddaj
+
 Klasa administrator
   Dodaj/usuń użytkownika
   Dodaj/usuń książkę
   Dodaj/usuń czasopismo
+  + to dla użytkownika
+
 Klasa menu
   Wypożycz
   Oddaj
   Wyloguj/zaloguj
   Sprawdź stan
+  
 Klasa książki:
   Tytuł
   Autor
