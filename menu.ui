@@ -1,0 +1,12 @@
+#include "ui_menu.h"
+
+class Menu : public QWidget, private Ui::Menu {
+    Q_OBJECT
+
+public:
+    Menu(QWidget *parent = nullptr) : QWidget(parent) {
+        setupUi(this);
+    }
+
+    // Metody i sygnały związane z interfejsem użytkownika można dodać tutaj
+};
